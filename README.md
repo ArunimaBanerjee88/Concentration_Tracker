@@ -30,6 +30,8 @@ The tracker uses **MediaPipe FaceMesh** to detect **eye landmarks** and **iris p
 
 1. **Clone this repository** or download the source code:
    ```bash
+    git clone https://github.com/your-username/concentration_tracker.git
+   cd concentration_tracker
 Make sure you have Python 3.8+ installed.
 
 2. Install the required libraries:
@@ -41,5 +43,6 @@ pip install opencv-python mediapipe
 Add a distraction timer to measure focus duration
 
 Generate session reports (focus % over time)
+
 
 
